@@ -1,4 +1,4 @@
-# Hope Speech Detection in Code-Mixed 
+# Hope Speech Detection in Code-Mixed TULU
 
 This repository contains a simple end-to-end pipeline for classifying code-mixed Tulu social media comments into four classes: encouraging, discouraging, uninvolved, and blended.  
 We fine-tune a multilingual Transformer model (e.g., XLM-R or DistilBERT) on a labeled CSV file with `Text` and `Label` columns.  
